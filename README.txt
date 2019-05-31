@@ -18,8 +18,7 @@ To sum up, in order to have all the necessary data to start using Locanda, the f
 -create one or more rooms
 -create one or more extras with the relative price types (i.e. per Night/per Person)
 -configure the room price lists
--configure the extra price lists
-
+-configure the extra price list
 Now you can insert a booking directly in the planner or by clicking the "New Booking" button.
 Please give a try also to the HTML component that enables another web site to collect bookings and store them in the system; you can find it in the section "Settings->Online Widget", clicking on the link "Try the Online Widget"
 
@@ -41,3 +40,4 @@ HOUSED
 Starting from v0.4, you can set for each booking, at the check-in, each person housed in that room.
 
 Have fun with Locanda!
+d
